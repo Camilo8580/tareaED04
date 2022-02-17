@@ -5,7 +5,7 @@ package TareaED04;
  * 
  * Contiene la información de las cuentas
  * @author Camilo-ED04
- * @vesion 1.0
+ * @version 1.0
  */
 
 public class CCuenta {
@@ -14,7 +14,7 @@ public class CCuenta {
     
     /**
      * Devuelve el nombre de la cuenta
-     * @return nombre cuenta
+     * @return nombre
      */
     public String getNombre() {
         return nombre;
